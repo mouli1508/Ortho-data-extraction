@@ -1,0 +1,6 @@
+medical_pdfs/
+*.pdf
+*.png
+*.jpg
+__pycache__/
+*.DS_Store
