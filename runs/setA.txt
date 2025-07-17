@@ -1,0 +1,3 @@
+medical_pdfs/bookData/EN_book1.pdf
+medical_pdfs/bookData/EN_book2.pdf
+medical_pdfs/bookData/EN_book3.pdf

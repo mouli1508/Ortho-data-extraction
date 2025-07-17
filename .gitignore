@@ -4,3 +4,5 @@ medical_pdfs/
 *.jpg
 __pycache__/
 *.DS_Store
+extracted_data/
+runs/*.log

@@ -1,0 +1,6 @@
+medical_pdfs/bookData/EN_book1.pdf
+medical_pdfs/bookData/EN_book2.pdf
+medical_pdfs/bookData/EN_book3.pdf
+medical_pdfs/bookData/KR_book1.pdf
+medical_pdfs/bookData/KR_book2.pdf
+medical_pdfs/bookData/KR_book3.pdf
